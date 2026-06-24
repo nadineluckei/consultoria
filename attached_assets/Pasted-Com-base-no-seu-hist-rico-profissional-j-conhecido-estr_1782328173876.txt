@@ -1,0 +1,285 @@
+Com base no seu histórico profissional já conhecido — estratégia, branding, marketing digital, inteligência de mercado, vendas B2B, analytics e tecnologia — eu posicionaria sua consultoria em um espaço de **médio ticket executivo**, atuando como uma parceira de crescimento para empresas que ainda não têm uma diretoria estratégica estruturada ou precisam modernizar seu go-to-market.
+
+Seu perfil profissional: [LinkedIn de Nadine Luckei](https://linkedin.com/in/nadineluckei?utm_source=chatgpt.com)
+
+---
+
+# Posicionamento da Consultoria
+
+**Planejamento Estratégico, Inteligência de Mercado e Crescimento para empresas que precisam transformar marketing e vendas em uma máquina previsível de crescimento.**
+
+Você atua como uma **Diretora Estratégica as a Service**, conectando:
+
+* Estratégia de Mercado
+* Posicionamento e Marca
+* Marketing
+* Vendas
+* Tecnologia e Dados
+* Roadmap de crescimento
+
+---
+
+# Estrutura de Serviços
+
+## 1. Diagnóstico Estratégico
+
+Ideal para empresas em crescimento.
+
+**Entregáveis**
+
+* Diagnóstico de marketing e vendas
+* Análise de concorrência
+* SWOT
+* Personas e ICP
+* Jornada do cliente
+* Diagnóstico de maturidade
+* Recomendações prioritárias
+
+**Prazo:** 3 a 4 semanas
+
+---
+
+## 2. Planejamento Estratégico de Crescimento
+
+Seu serviço principal.
+
+**Entregáveis**
+
+### Mercado
+
+* Análise de mercado
+* Tendências
+* Benchmark
+* Oportunidades
+
+### Marca
+
+* Posicionamento
+* Proposta de valor
+* Mensagens-chave
+* Arquitetura de comunicação
+
+### Marketing
+
+* Estratégia de aquisição
+* Conteúdo
+* SEO
+* Mídia paga
+* Automação
+
+### Vendas
+
+* Jornada comercial
+* ICP
+* Pipeline
+* Funil
+* SLAs entre marketing e vendas
+
+### Roadmap Executivo
+
+Plano de 12 meses contendo:
+
+* prioridades
+* quick wins
+* metas
+* OKRs
+* cronograma
+* indicadores
+
+---
+
+## 3. Diretoria Estratégica Fracionada
+
+Acompanhamento mensal.
+
+Você atua como uma Diretora Estratégica externa.
+
+**Inclui**
+
+* Reuniões executivas
+* Acompanhamento de KPIs
+* Revisão do roadmap
+* Apoio ao time
+* Novas oportunidades de mercado
+* Tendências e inovação
+* Revisão das estratégias
+
+---
+
+# Roteiro do Projeto
+
+## Fase 1 – Kickoff e Entrevistas
+
+Objetivo:
+
+Entender profundamente o negócio.
+
+### Entrevistas
+
+* CEO
+* Comercial
+* Marketing
+* Atendimento
+* Produto
+* Clientes (opcional)
+
+**Mapear**
+
+* dores
+* desafios
+* oportunidades
+* concorrentes
+* objetivos
+* gargalos
+
+---
+
+## Fase 2 – Imersão
+
+Análise de:
+
+* Marca
+* Site
+* CRM
+* Funil
+* Campanhas
+* Conteúdo
+* Dados
+* Processo comercial
+* Tecnologias utilizadas
+
+Resultado:
+
+**Relatório Executivo de Diagnóstico**
+
+---
+
+## Fase 3 – Estratégia
+
+Construção de:
+
+### Estratégia de Mercado
+
+* Onde competir
+* Como se diferenciar
+* Quais oportunidades explorar
+
+### Estratégia de Marca
+
+* Posicionamento
+* Narrativa
+* Mensagens
+
+### Estratégia de Marketing
+
+* Canais
+* Conteúdo
+* Aquisição
+* Nutrição
+
+### Estratégia Comercial
+
+* ICP
+* Pipeline
+* Processo
+* Conversão
+
+---
+
+## Fase 4 – Roadmap Executivo
+
+Um documento visual contendo:
+
+### Horizonte 90 dias
+
+* Quick wins
+* Prioridades
+
+### Horizonte 6 meses
+
+* Projetos estruturantes
+
+### Horizonte 12 meses
+
+* Crescimento
+* Tecnologia
+* Novos mercados
+* Inovação
+
+---
+
+## Fase 5 – Imersão com a Equipe
+
+Workshop estratégico.
+
+Objetivos:
+
+* Apresentar o plano
+* Alinhar áreas
+* Definir responsabilidades
+* Criar metas
+* Priorizar iniciativas
+
+Formato:
+
+**1 dia de imersão**
+
+ou
+
+**2 workshops de 4 horas**
+
+---
+
+# Prompt para criar o site
+
+> Crie um site institucional premium para uma consultoria de médio ticket especializada em Planejamento Estratégico, Inteligência de Mercado, Branding, Marketing, Vendas, Tecnologia e Tendências.
+>
+> A consultora possui experiência em marketing digital, branding, growth, business intelligence, CRM, automação, SEO, mídia paga, analytics e vendas B2B.
+>
+> O posicionamento da marca é:
+>
+> "Transformamos dados, mercado e estratégia em planos de crescimento claros e executáveis."
+>
+> O público-alvo são:
+>
+> * pequenas e médias empresas;
+> * startups;
+> * empresas B2B;
+> * empresas que não possuem diretoria estratégica;
+> * empresas que precisam estruturar marketing e vendas.
+>
+> O site deve transmitir:
+>
+> * sofisticação;
+> * inteligência;
+> * visão executiva;
+> * inovação;
+> * clareza estratégica.
+>
+> Estrutura:
+>
+> 1. Hero section com proposta de valor forte.
+> 2. Sobre a consultora.
+> 3. Metodologia em 5 etapas:
+>
+>    * Entrevistas
+>    * Imersão
+>    * Estratégia
+>    * Roadmap
+>    * Workshop com equipe
+> 4. Serviços.
+> 5. Roadmap visual de crescimento.
+> 6. Tendências e Insights.
+> 7. Cases ou exemplos de projetos.
+> 8. Chamada para diagnóstico estratégico.
+>
+> Estilo visual:
+>
+> * minimalista;
+> * executivo;
+> * moderno;
+> * inspirado em consultorias globais;
+> * uso de gráficos, roadmaps e elementos de inteligência de mercado;
+> * cores sóbrias com destaque tecnológico e premium.
+
+Essa estrutura posiciona você menos como uma agência e mais como uma **estrategista de crescimento e diretora de mercado fracionada**, o que tende a justificar um ticket mais elevado e aumentar a percepção de autoridade.

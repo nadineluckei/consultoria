@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Nadine Luckei Consultoria"
+version = "1.0.0"
+id = "artifacts/nadine-consultoria"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25946
+
+[services.development]
+run = "pnpm --filter @workspace/nadine-consultoria run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nadine-consultoria", "run", "build" ]
+publicDir = "artifacts/nadine-consultoria/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25946"
+BASE_PATH = "/"
